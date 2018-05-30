@@ -1,6 +1,6 @@
 # flutter_firebase_gcl
 
-A new Flutter application.
+Firebase for Flutter - Google Codelabs Sample
 
 ## Getting Started
 
